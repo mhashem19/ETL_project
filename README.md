@@ -1,1 +1,1 @@
-# ETL_project
+The primary objective of the project is to determine and model a successful TEL process that would turn the given datasets into a readable database for the analysis purposes. In order to achieve the objective, tow datasets have been extracted from two different sources, Kaggle and Data world. 
